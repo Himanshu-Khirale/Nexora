@@ -89,14 +89,17 @@ Nexora/
 
 ## Screenshots & Demo
 
-Add captures under `docs/screenshots/` and reference them here. Recommended set:
 
 | File | Description |
 | --- | --- |
-| `docs/screenshots/01-products-grid.png` | Landing view showing the featured products grid. |
-| `docs/screenshots/02-cart-panel.png` | Cart page highlighting quantity controls and running total. |
-| `docs/screenshots/03-checkout-form.png` | Checkout form populated prior to submission. |
-| `docs/screenshots/04-receipt-modal.png` | Receipt confirmation modal after a successful checkout. |
+| `<img width="1896" height="1029" alt="Screenshot 2025-11-07 183933" src="https://github.com/user-attachments/assets/231ace48-3995-4a42-a8a5-873a4c1d07d0" />
+` | Landing view showing the featured products grid. |
+| `<img width="1913" height="1024" alt="Screenshot 2025-11-07 183845" src="https://github.com/user-attachments/assets/3630b91e-27e0-4986-95bf-7768e0914787" />
+` | Cart page highlighting quantity controls and running total. |
+| `<img width="1916" height="1017" alt="Screenshot 2025-11-07 183902" src="https://github.com/user-attachments/assets/7d20f7f7-66d3-4bcd-a4a5-a3d281886549" />
+` | Checkout form populated prior to submission. |
+| `<img width="1902" height="1012" alt="Screenshot 2025-11-07 183915" src="https://github.com/user-attachments/assets/678d427c-a986-404b-824e-5a5b6c9e74ae" />
+` | Receipt confirmation modal after a successful checkout. |
 
 ## Testing Checklist
 
